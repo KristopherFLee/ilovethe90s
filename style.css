@@ -1,0 +1,118 @@
+body {
+  background-image: url(images/90background.jpg);
+  
+  text-align: center;
+  width: 960px;
+  height: 768px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Bungee Shade", sans-serif;
+  color: #49FF00;
+  font-size: 4rem;
+}
+
+iframe {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.body-content {
+  margin-left: 130px;
+ 
+}
+
+.direction {
+
+
+  margin-top: 150px;
+
+}
+
+
+.heading-container {
+  height: auto;
+  width: 100%;
+
+}
+
+.imageclick,
+.right,
+.left {
+
+  display: inline;
+
+
+}
+
+.right {
+  position: relative;
+  bottom: 75px;
+  margin: 15px;
+
+}
+
+.left {
+  position: relative;
+  bottom: 75px;
+  margin: 15px;
+}
+
+.Lpoint {
+  height: 30px;
+  width: auto;
+}
+
+.Rpoint {
+  height: 30px;
+  width: auto;
+
+}
+
+.TV {
+  height: auto;
+  width: 250px;
+
+
+}
+
+.footer {
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav {
+
+  position: fixed;
+  text-align: left;
+  background-color: aliceblue;
+  
+  width: 100px;
+  height: 200px;
+  border-style: groove;
+  border-width: 10px;
+  top: 0;
+  line-height: 2;
+
+}
+
+.text {
+  text-align: justify;
+  font-size: 17px;
+  background-color: blueviolet;
+  height: 250px;
+  width: 600px;
+}
